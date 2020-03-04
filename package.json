@@ -1,15 +1,16 @@
 {
   "name": "vue-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vue.js demonstrated as a backend framework",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Oscar Spencer",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "vue": "^3.0.0-alpha.7"
   }
 }
