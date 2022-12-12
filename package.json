@@ -9,7 +9,7 @@
   "author": "Oscar Spencer",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.2",
     "vue": "^3.0.0-alpha.7"
   }
